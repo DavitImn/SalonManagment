@@ -1,0 +1,8 @@
+[
+  {
+    "default": true,
+    "type": "SQL Server",
+    "connection_string": "Data Source=WIN-GJRGE8N8QQF;Initial Catalog=SalonDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;",
+    "name": "SQL Server Connection"
+  }
+]
